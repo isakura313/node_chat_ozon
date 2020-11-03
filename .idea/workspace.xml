@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06913a5e-bd38-452b-adb9-9848d9e5735e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jmt2vTC2sMAWU7hayHxwEVE5jZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06913a5e-bd38-452b-adb9-9848d9e5735e" name="Default Changelist" comment="" />
+      <created>1604420900419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604420900419</updated>
+      <workItem from="1604420907832" duration="2571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="39" y="32" key="SettingsEditor" timestamp="1604423167254">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state x="39" y="32" key="SettingsEditor/0.23.1920.973@0.23.1920.973" timestamp="1604423167254" />
+    <state x="528" y="198" width="755" height="622" key="find.popup" timestamp="1604423158230">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state x="528" y="198" width="755" height="622" key="find.popup/0.23.1920.973@0.23.1920.973" timestamp="1604423158230" />
+  </component>
+</project>
